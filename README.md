@@ -1,1 +1,1 @@
-Our group levergaed our knowledge in R and Python to analyze and visualize biases in pro-bono cases over a 3-day hackthon. 
+Our group utilized R and Python to analyze and visualize biases in pro-bono cases, with the goal of enhancing the quality of legal services pro-bono attorneys provide to their clients. 
